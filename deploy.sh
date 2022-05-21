@@ -5,5 +5,7 @@ development5
 
 
 deployment4
-deploy in staging
+deploy to staging env
+echo "good job"
+tested and good job
 
